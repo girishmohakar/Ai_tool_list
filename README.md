@@ -40,7 +40,7 @@ This project was built as a learning exercise to improve HTML skills and underst
 
 ---
 # Screenshot
-![Website Preview](screenshot.png)
+![Website Preview](IMG-20250604-WA0012.jpg)
 
 ## 📂 How to Use
 
