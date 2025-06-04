@@ -39,6 +39,8 @@ This project was built as a learning exercise to improve HTML skills and underst
 - [Fireflies AI](https://fireflies.ai/)
 
 ---
+# Screenshot
+![Website Preview](screenshot.png)
 
 ## 📂 How to Use
 
